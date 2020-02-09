@@ -1,2 +1,2 @@
-# maximum-likelihood-gumbel-dist
-Maximum Likelihood Estimation of Gumbel Distribution
+# Maximum Likelihood Estimation of Gumbel Distribution
+
